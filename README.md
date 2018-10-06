@@ -1,2 +1,5 @@
 # Scrum Guide
 
+## Fonts
+* Arial
+
